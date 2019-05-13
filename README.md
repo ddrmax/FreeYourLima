@@ -11,13 +11,8 @@ Please go Check out how to root your Lima [here](https://github.com/catwell/post
 The  work is still in it's initial state but I broke down the majority of how the hardware and software is and I'm currently playing with the device to disable most of the Lima and services related with actualy near no success (the device reboots itself after a while when disabling some services)
 
 ## Is it sure that it will work with my Lima?
-Actually no, It is posssible that we have laying arround two or more revisions of the board.
+Actually Yes, We have laying arround two of revisions of the board (The First board had a usb power problem, thanks to @catwell.
 
-For example I bought my two devices in the second quarter of 2018 and my board actually has 8GB eMMC and 512MB of DDR3 SDRAM
-In the first reviews of the product back in 2016, the reviews said that the device had 256MB of RAM.
-So it's possible that the 1.0 revision board to either have 256MB or 512MB of RAM and either 4GB or 8GB eMMC storage.
-
-So without any returns from at least a first buyer or a kickstarter backer or maybe someone of the ex-Hardware team of @meetlima, I can't totaly say that this will work on your device because of the possible limtations.
 
 ## What is actually planned?
 - Completting the Wiki with all the information that I have already extracted from the device.
