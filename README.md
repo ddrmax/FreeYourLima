@@ -11,7 +11,7 @@ Please go Check out how to root your Lima [here](https://github.com/catwell/post
 The  work is still in it's initial state but I broke down the majority of how the hardware and software is and I'm currently playing with the device to disable most of the Lima and services related with actualy near no success (the device reboots itself after a while when disabling some services)
 
 ## Is it sure that it will work with my Lima?
-Actually Yes, We have laying arround two of revisions of the board (The First board had a usb power problem, thanks to @catwell.
+Actually Yes, We have laying arround two of revisions of the board (The First board had a usb power problem, thanks to [@catwell](https://twitter.com/pchapuis/status/1127898174289584128).
 
 
 ## What is actually planned?
